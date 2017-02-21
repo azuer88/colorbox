@@ -5,7 +5,7 @@ Draw a box of a solid color, given the box dimensions, e.g., "200x400", and the 
 ### usage
 
 ** examples **
-```
+``` python
 from colorbox import colorbox
 
 img = colorbox("200x100", 'BLUE')
